@@ -1,0 +1,19 @@
+9876        Joseph P. Allen, Jr.
+598         Brenda Gomez
+632         Stephanie McGraw
+1           Salwa Jeries
+2           Joe Mama
+3           Some Body
+
+100         100 yard dash
+123         high jump
+4567        4-person relay
+8910        Disc throwing
+
+632         100
+598         100
+9876        4567
+1           123
+2           123
+3           4567
+1           8910
